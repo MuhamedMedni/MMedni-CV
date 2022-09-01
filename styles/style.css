@@ -8,6 +8,7 @@ h5,
 h6 {
     font-family: "Roboto", sans-serif
 }
-img {
-  border-radius: 50%;
+
+.avatar {
+    border-radius: 50%;
 }
