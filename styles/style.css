@@ -7,7 +7,7 @@ html {
 
 .avatar {
     border-radius: 50%;
-    margin-left: 3rem;
+    margin-left: auto;
     margin-right: auto;
     display: block;
     padding-top: 0.7rem;
